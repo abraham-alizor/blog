@@ -1,6 +1,6 @@
 # Blog-Website
 
-## A Ab-blog is a frontend web platform built on vanilla JavaScript, CSS 3 and HTML 5. Fully responsive on all mobile screens.
+Ab-blog is a frontend web platform built on vanilla JavaScript, CSS 3 and HTML 5. Fully responsive on all mobile screens.
 
 
 # Live Preview
